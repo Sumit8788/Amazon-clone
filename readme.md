@@ -46,7 +46,3 @@ Contributions to this project are welcome. If you have suggestions for improveme
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-You can add or modify sections as per your project's specific features and requirements. If you have any further questions or need additional assistance, feel free to ask!
