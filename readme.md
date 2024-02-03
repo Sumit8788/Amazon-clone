@@ -1,7 +1,3 @@
-Certainly! Based on the HTML and CSS code you provided, you can enhance your README.md file with the following content:
-
----
-
 # Amazon Clone Web App
 
 ![Amazon Clone]
